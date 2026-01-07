@@ -84,5 +84,8 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 ### Summary
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icalvete&theme=github_dark" width="40%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icalvete&theme=github_dark" width="20%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icalvete&theme=github_dark" width="20%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icalvete&theme=github_dark" width="20%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icalvete&theme=github_dark" width="60%" />
+</p>
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icalvete&theme=github_dark" width="30%" />
 </p>
