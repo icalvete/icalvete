@@ -55,6 +55,7 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 - Building pentesting labs with Kali and Parrot OS
 - Learning offensive security through HTB Academy
 - Exploring AI-powered development tools
+- Playing with Arduino
 
 ---
 
@@ -75,9 +76,8 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 ---
 
 ### Activity
-![Contributions](https://ghchart.rshah.org/4493f8/icalvete)
----
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true" width="60%" />
 
 ---
 
