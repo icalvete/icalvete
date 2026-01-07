@@ -1,10 +1,16 @@
 # Israel Calvete
 
-An old hand.
-
 Software Engineer | AWS Infrastructure | Security Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-icalvete-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/icalvete/)
+
+---
+
+## About Me
+
+I'm an old man.
+
+> *"The more I see, the less I know. The more I like to let it go."*
 
 ---
 
