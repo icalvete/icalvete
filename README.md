@@ -12,10 +12,10 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 
 **Anthropic Academy**
 
-[![Building with Claude API](https://img.shields.io/badge/Building_with_Claude_API-191919?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/seaob4j3fgju)
-[![Claude Code in Action](https://img.shields.io/badge/Claude_Code_in_Action-191919?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/6t4t43u4kawd)
-[![MCP Introduction](https://img.shields.io/badge/MCP_Introduction-191919?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/2nwyzg9j5z5b)
-[![MCP Advanced](https://img.shields.io/badge/MCP_Advanced-191919?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/ewiq5ppbgsiy)
+[![Building with Claude API](https://img.shields.io/badge/Building_with_Claude_API-D4A574?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/seaob4j3fgju)
+[![Claude Code in Action](https://img.shields.io/badge/Claude_Code_in_Action-D4A574?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/6t4t43u4kawd)
+[![MCP Introduction](https://img.shields.io/badge/MCP_Introduction-D4A574?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/2nwyzg9j5z5b)
+[![MCP Advanced](https://img.shields.io/badge/MCP_Advanced-D4A574?style=flat&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/ewiq5ppbgsiy)
 
 **Cloud & DevOps**
 
@@ -48,7 +48,7 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 [![VMware Infrastructure 3](https://img.shields.io/badge/VMware_Infrastructure_3-607078?style=flat&logo=vmware&logoColor=white)]()
 [![Data ONTAP GX](https://img.shields.io/badge/Data_ONTAP_GX-0067C5?style=flat&logo=netapp&logoColor=white)]()
 [![ITIL v3](https://img.shields.io/badge/ITIL_v3_Foundation-5C2D91?style=flat)](https://www.exin.com)
-[![Finance TVM](https://img.shields.io/badge/Finance_TVM-1D4ED8?style=flat)](https://www.smartly.io)
+[![Finance TVM](https://img.shields.io/badge/Finance_TVM-E85D04?style=flat)](https://www.smartly.io)
 
 ### Currently
 
@@ -75,7 +75,8 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 ---
 
 ### Activity
-
+![Contributions](https://ghchart.rshah.org/icalvete)
+---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true)
 
 ---
