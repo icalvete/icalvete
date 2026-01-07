@@ -32,29 +32,9 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 
 ---
 
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=icalvete&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=icalvete&theme=github-dark-blue&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icalvete&layout=compact&theme=github_dark&hide_border=true&hide_title=true" width="40%" />
-
----
-
 ### Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true)
-
----
-
-### Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=icalvete&theme=darkhub&no-frame=true&row=1)
-
----
-
-### Profile
-
-![Profile views](https://komarev.com/ghpvc/?username=icalvete&color=grey)
 
 ---
 
