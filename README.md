@@ -8,7 +8,7 @@ SRE / DevOps Jedi | Code Trooper | Security Padawan
 
 ## About Me
 
-I'm an old man.
+I'm an old hand.
 
 > *"The more I see, the less I know. The more I like to let it go."*
 
