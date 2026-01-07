@@ -85,14 +85,14 @@ I'm an old hand.
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true" width="90%" />
 
 ---
 
 ### Summary
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icalvete&theme=github_dark" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icalvete&theme=github_dark" width="90%" />
 </p>
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icalvete&theme=github_dark" width="30%" />
