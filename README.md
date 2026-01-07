@@ -75,7 +75,7 @@ Software Engineer | AWS Infrastructure | Security Enthusiast
 ---
 
 ### Activity
-![Contributions](https://ghchart.rshah.org/icalvete)
+![Contributions](https://ghchart.rshah.org/4493f8/icalvete)
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true)
 
