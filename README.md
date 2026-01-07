@@ -1,6 +1,6 @@
 # Israel Calvete
 
-Software Engineer | AWS Infrastructure | Security Enthusiast
+SRE/DevOps Jedi | Code Trooper | Security Padawan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-icalvete-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/icalvete/)
 
