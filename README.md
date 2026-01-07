@@ -4,13 +4,28 @@ SRE / DevOps Jedi | Code Trooper | Security Padawan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-icalvete-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/icalvete/)
 
----
-
 ## About Me
 
-I'm an old hand.
-
 > *"The more I see, the less I know. The more I like to let it go."*
+
+---
+
+### Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icalvete&theme=github_dark" width="90%" />
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icalvete&theme=github_dark" width="30%" />
+</p>
+
+---
+
+### Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true" width="90%" />
+</p>
 
 ---
 
@@ -80,20 +95,3 @@ I'm an old hand.
 ![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-
----
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=icalvete&theme=github-dark&hide_border=true" width="90%" />
-
----
-
-### Summary
-
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icalvete&theme=github_dark" width="90%" />
-</p>
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=icalvete&theme=github_dark" width="30%" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icalvete&theme=github_dark" width="30%" />
-</p>
