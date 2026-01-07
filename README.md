@@ -62,6 +62,7 @@ I'm an old man.
 - Learning offensive security through HTB Academy
 - Exploring AI-powered development tools
 - Playing with Arduino
+- Playing with Godot
 
 ---
 
